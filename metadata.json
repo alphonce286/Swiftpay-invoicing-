@@ -1,0 +1,6 @@
+{
+  "name": "InvoiceFlow",
+  "description": "Fast invoicing and payment reminders for freelancers and small businesses. Create invoices in 60 seconds, share via WhatsApp, SMS, or Email, set automatic payment reminders, and track paid, pending, and overdue totals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
